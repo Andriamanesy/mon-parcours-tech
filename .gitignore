@@ -1,0 +1,13 @@
+# Fichiers à ignorer pour plusieurs langages
+*.class
+*.o
+*.out
+*.log
+__pycache__/
+node_modules/
+*.exe
+*.swp
+.env
+.DS_Store
+.idea/
+.vscode/

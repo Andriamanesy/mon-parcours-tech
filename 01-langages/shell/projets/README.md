@@ -1,3 +1,3 @@
 # projets
 
-Contenu du dossier `01-langages/javascript/projets`.
+Contenu du dossier `01-langages/shell/projets`.
